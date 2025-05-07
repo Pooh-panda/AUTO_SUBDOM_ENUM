@@ -17,7 +17,7 @@ passive and active subdomain enumeration using:
 ## INSTALLATION
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/subdomain-enum-script.git
+git clone https://github.com/Pooh-panda/subdomain-enum-script.git
 ```
 Change the directory:
 ```bash
